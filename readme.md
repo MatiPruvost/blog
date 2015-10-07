@@ -1,4 +1,4 @@
 
 # Blog
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+The Mati Pruvost's blog. It uses [wintersmith](https://github.com/jnordberg/wintersmith) template
