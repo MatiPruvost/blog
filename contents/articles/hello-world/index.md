@@ -13,7 +13,7 @@ Empiezo este humilde proyecto con la idea de compartir ideas y experiencias,  en
 
 Estuve investigando las posibilidades y herramientas disponibles para mantener un blog, claramente, hay muchas y muy geniales. 
 
-Elegí [Wintersmith](https://github.com/jnordberg/wintersmith) como generador de blogs estáticos y [GitHub Pages](https://pages.github.com/) para almacenar el contenido. En otro artículo voy a contar sobre esta elección.
+Elegí [Wintersmith](http://wintersmith.io/) como generador de blogs estáticos y [GitHub Pages](https://pages.github.com/) para almacenar el contenido. En otro artículo voy a contar sobre esta elección.
 
 Por ahora vamos a intentar desandar este camino !Ya veremos que pasa! 
 Sean bienvenidos y bien llegados.. 
