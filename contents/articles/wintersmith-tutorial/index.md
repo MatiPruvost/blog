@@ -1,7 +1,7 @@
 ---
 title: Wintersmith tutoriial
 author: Mati Pruvost
-date: 2015-11-08
+date: 2015-10-19
 template: article.jade
 ---
 
