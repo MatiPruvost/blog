@@ -1,11 +1,11 @@
 ---
 title: Generadores Yeoman
 author: Mati Pruvost
-date: 2015-10-20
+date: 2015-11-09
 template: article.jade
 ---
 
-[Yeoman](http://yeoman.io/) facilita el inicio de un nuevo proyecto de software utilizando herramientas para facilitar el desempeño y productividad.
+[Yeoman](http://yeoman.io/) agiliza el inicio de un nuevo proyecto de software utilizando herramientas para facilitar el desempeño y productividad.
 
 <span class="more"></span>
 
@@ -29,6 +29,8 @@ A continuación algunos generadores de ejemplo:
 - [generator-polymer](https://github.com/yeoman/generator-polymer#readme): Crear aplicaciones utilizando la plataforma Polymer.  
 - [generator-generator](https://github.com/yeoman/generator-generator#readme): Crear generadores Yeoman.  
 
+Para ver a la lista provista por el proyecto debes acceder a este [link](http://yeoman.io/generators/).
+
 # Requisitos
 
 Los requisitos para instalar Yeoman son:
@@ -39,20 +41,20 @@ Los requisitos para instalar Yeoman son:
 - grunt.  
 
 ## Node y npm
-Node.js es un runtime environment en Javascript, multiplataforma y basado en motor V8 de Chrome. Npm es el gestor de paquetes de Node.js.
+[Node.js](https://nodejs.org) es un runtime environment en Javascript, multiplataforma y basado en motor V8 de Chrome. [Npm](https://www.npmjs.com/) es el gestor de paquetes de Node.js.
 
 Para instalar Node.js y npm tenés que dirigirte a este [link](https://nodejs.org/en/download/) 
 
-## bower
+## Bower
 
-Bower es un gestor de paquetes optimizado para desarrollo front-end. Para instalar bower tenes que ejecutar el siguiente comando:
+[Bower](http://bower.io/) es un gestor de paquetes optimizado para desarrollo front-end. Para instalar bower tenes que ejecutar el siguiente comando:
 
 ```bash
 $ npm install bower -g
 ```
 
-## grunt
-Grunt es un gestor de tareas repetitivas. Para instalar grunt tenes que ejecutar el siguiente comando:
+## Grunt
+[Grunt](http://gruntjs.com/) es un gestor de tareas repetitivas. Para instalar grunt tenes que ejecutar el siguiente comando:
 
 ```bash
 $ npm install grunt-cli -g
