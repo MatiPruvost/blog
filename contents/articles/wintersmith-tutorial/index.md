@@ -30,7 +30,7 @@ Entonces, se utiliza GitHub Pages para poder visualizar el website en la web, Gi
 
 Para crear una nueva cuenta en GitHub tenés que dirigirte a este [link](https://github.com/join). Hay dos tipos de cuentas:
 
-- *Free*: Cantidad de proyectos públicos y colaboradores ilímitados.
+- *Free*: Cantidad de proyectos públicos y colaboradores ilimitados.
 - *Enterprise*: Crear proyectos privados.
 
 Esta cuenta te servirá para alojar tu proyecto en un repositorio Git y para acceder al servicio de GitHub Pages.
@@ -54,7 +54,7 @@ En los links anteriores se encuentra la guía necesaria del proceso de instalaci
 
 # Wintersmith
 
-Wintersmith es un generador de sitios estáticos muy flexile. Para instalarlo es necesario:
+Wintersmith es un generador de sitios estáticos muy flexible. Para instalarlo es necesario:
 
 - Instalar Node.js
 - Instalar npm
@@ -116,7 +116,7 @@ En el directorio `build/` se encuentra el website generado y en `contents/articl
 
 # Crear un artículo
 
-Debes crear un directorio dentro del directorio `contents/articles/` con el nombre de tu artículo sin espacios por ejemplo `my-first-post/`, por lo tanto vas a obtener la siguente estructura `contents/my-first-post/`.
+Debes crear un directorio dentro del directorio `contents/articles/` con el nombre de tu artículo sin espacios por ejemplo `my-first-post/`, por lo tanto vas a obtener la siguiente estructura `contents/my-first-post/`.
 
 Dentro del directorio `contents/my-first-post/` debes crear un archivo llamado `index.md`. En este archivo se escribirá el contenido de tu artículo.
 
@@ -133,11 +133,11 @@ template: article.jade
 
 *title* es el título de tu artículo, en este caso *My first post*. *title* es la fecha de publicación de tu artículo, en este caso *2015-10-08 12:10*, *author* es el autor del artículo, en este caso *Román Riquelme* y *template* es la plantilla que se ve a utilizar, en este caso *article.jade*.
 
-A partir de aquí deberás crear el contenido de tu artículo, podrás insertar imágenes, links, crear tablas, listas, utilizar jerarquias de títulos, etc. Para esto Wintersmith utiliza Markdown que es una forma simple de escribir código HTML para web. Para obtener una guía básica de como escribir Markdown tenés que dirigirte a este [link](https://help.github.com/articles/markdown-basics/).
+A partir de aquí deberás crear el contenido de tu artículo, podrás insertar imágenes, links, crear tablas, listas, utilizar jerarquías de títulos, etc. Para esto Wintersmith utiliza Markdown que es una forma simple de escribir código HTML para web. Para obtener una guía básica de como escribir Markdown tenés que dirigirte a este [link](https://help.github.com/articles/markdown-basics/).
 
 # Publicar el website en GitHub Pages
 
-En primer lugar deberas abrir tu consola o terminal y dirigirte al directorio `build/` de tu proyecto:
+En primer lugar deberás abrir tu consola o terminal y dirigirte al directorio `build/` de tu proyecto:
 
 ```bash
 $ cd <path-to-project>/build
@@ -183,7 +183,7 @@ Ahora tus cambios están en el repositorio remoto y el website ya está disponib
 
 # Lista de pasos del tutorial
 
-A continuación se ecuentra la lista de tareas y procedimientos que debes seguir para tener disponible tu website en internet.
+A continuación se encuentra la lista de tareas y procedimientos que debes seguir para tener disponible tu website en internet.
 
 <ul class="checklist custom-ul">
 	<li>
