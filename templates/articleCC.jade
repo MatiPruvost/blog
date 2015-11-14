@@ -1,0 +1,30 @@
+
+extends layout
+
+block append vars
+  - bodyclass = 'article-detail'
+
+block prepend title
+  | #{ page.title + ' - '}
+
+block header
+  include author
+  h1= page.title
+  p.author
+    | #{ 'Written by ' }
+    mixin author(page.metadata.author)
+
+block content
+  article.article
+    section.content!= typogr(page.html).typogrify()
+  a(href="http://creativecommons.org/licenses/by-sa/4.0/", rel="license")
+    img(alt="Licencia Creative Commons", style="border-width:0", src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png")
+  br
+  p(class="creativecommons")="Esta obra de "
+    a(xmlns:cc="http://creativecommons.org/ns#", href=locals.url, property="cc:attributionName", rel="cc:attributionURL")=page.metadata.author
+    =" está bajo una "
+    a(rel="license", href="http://creativecommons.org/licenses/by-sa/4.0/")="Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional"
+
+block prepend footer
+  div.nav
+    a(href=contents.index.url) « Full blog
