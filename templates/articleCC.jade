@@ -14,11 +14,11 @@ block header
     | #{ 'Written by ' }
     mixin author(page.metadata.author)
   div(class="hide")
-    a(href="http://www.facebook.com/share.php?u="+locals.url+page.url)
+    a(target="_blank" href="http://www.facebook.com/share.php?u="+locals.url+page.url)
       i(class="fa fa-facebook share-icon")
-    a(href="http://twitter.com/share?text="+page.title+"&url="+locals.url+page.url)
+    a(target="_blank" href="http://twitter.com/share?text="+page.title+"&url="+locals.url+page.url)
       i(class="fa fa-twitter share-icon")
-    a(href="https://www.linkedin.com/cws/share?url="+locals.url+page.url)
+    a(target="_blank" href="https://www.linkedin.com/cws/share?url="+locals.url+page.url)
       i(class="fa fa-linkedin share-icon")
 
 block content
