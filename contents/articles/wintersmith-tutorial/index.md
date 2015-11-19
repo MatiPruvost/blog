@@ -123,12 +123,12 @@ Dentro del directorio `contents/my-first-post/` debes crear un archivo llamado `
 Lo primero que debes escribir en el archivo `index.md` es lo siguiente:
 
 ```markdown
----
-title: My first post
-date: 2015-10-08 12:10
-author: Román Riquelme
-template: article.jade
----
+ ---
+ title: My first post
+ date: 2015-10-08 12:10
+ author: Román Riquelme
+ template: article.jade
+ ---
 ```
 
 *title* es el título de tu artículo, en este caso *My first post*. *title* es la fecha de publicación de tu artículo, en este caso *2015-10-08 12:10*, *author* es el autor del artículo, en este caso *Román Riquelme* y *template* es la plantilla que se ve a utilizar, en este caso *article.jade*.
