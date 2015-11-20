@@ -7,9 +7,9 @@ template: article.jade
 
 Guía completa para generar un blog utilizando [Wintersmith](http://wintersmith.io/) y [GitHub Pages](https://pages.github.com/).
 
-![Coding](coding.png)
-
 <span class="more"></span>
+
+![Coding](coding.png)
 
 # GitHub Pages
 
