@@ -9,6 +9,11 @@ template: article.jade
 
 <span class="more"></span>
 
+![Yeoman](yeoman.jpg)
+<div class="caption">
+[Yeoman Warder Merry](https://www.flickr.com/photos/byzantiumbooks/14922961157/in/photolist-oJG5rK-6qQXEa-vwxKjc-ptcF3N-pveNWB-bwJZVn-87AFRa-5ywmUk-ptcEZb-eFavYN-sDJq9E-eF4pCg-pvV5u9-omYtzj-kxekPP-oeB3Db-rBQTpW-erLBS-t3RkB-6JQNZa-oK9GLV-oCeM84-oX2Qgv-w2VyFJ-x7StvE-qAoaRE-pesoYQ-8qx6WA-7zVkFT-okgAF4-isEhpF-6E1DcH-7prqaA-puXyn4-iv7zdg-uno5ZS-aqqhHP-efbr2B-efbqM6-efbqxe-rtwf9K-df3qB8-df3q4i-df3p9d-6uqxAG-rUiCLS-8GGqqA-7jVQWa-3npWM1-87Av8X) by [Bill Smith](https://www.flickr.com/photos/byzantiumbooks/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+</div>
+
 # ¿Por qué utilizar generadores Yeoman?
 El objetivo principal de esta herramienta es construir la estructura del proyecto de software que estamos por iniciar. A este esqueleto se le denomina `scaffolding`. 
 
