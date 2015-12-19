@@ -2,8 +2,9 @@
 title: Hello world
 author: Mati Pruvost
 date: 2015-10-06
-template: articleCC.jade
+template: article.jade
 comments: true
+cc: true
 ---
 
 Toda escalera tiene su primer escalón, cada canción tiene su primer estrofa y cada blog tiene su primer artículo.
