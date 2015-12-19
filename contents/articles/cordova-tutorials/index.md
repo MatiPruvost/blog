@@ -3,6 +3,7 @@ title: ¿Cómo empezar con Apache Cordova?
 author: Mati Pruvost
 date: 2015-12-14
 template: article.jade
+comments: true
 ---
 
 ¡Felicitaciones! Estás interesado en aprender algo nuevo, los objetivos de superación y aprendizaje no son triviales, por lo tanto, este artículo te va a ayudar en el proceso.  

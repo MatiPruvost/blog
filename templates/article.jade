@@ -28,3 +28,5 @@ block content
 block prepend footer
   div.nav
     a(href=contents.index.url) « Full blog
+  if page.metadata.comments
+    include disqus

@@ -3,6 +3,7 @@ title: Porque elegí Wintersmith
 author: Mati Pruvost
 date: 2015-10-08
 template: article.jade
+comments: true
 ---
 
 Implementé este blog utilizando un generador de sitios estáticos llamado [Wintersmith](http://wintersmith.io/), sin embargo ¿Por qué hice esa elección?

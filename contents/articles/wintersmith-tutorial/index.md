@@ -3,6 +3,7 @@ title: Wintersmith tutorial
 author: Mati Pruvost
 date: 2015-10-19
 template: article.jade
+comments: true
 ---
 
 Guía completa para generar un blog utilizando [Wintersmith](http://wintersmith.io/) y [GitHub Pages](https://pages.github.com/).
