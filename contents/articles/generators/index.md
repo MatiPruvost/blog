@@ -4,6 +4,7 @@ author: Mati Pruvost
 date: 2015-11-09
 template: article.jade
 comments: true
+cc: false
 ---
 
 [Yeoman](http://yeoman.io/) agiliza el inicio de un nuevo proyecto de software utilizando herramientas para facilitar el desempeño y productividad.
