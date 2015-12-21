@@ -1,5 +1,5 @@
 ---
-title: Los mejores albunes del 2015
+title: Los mejores lanzamientos del 2015
 author: Mati Pruvost
 date: 2015-12-20
 template: article.jade
